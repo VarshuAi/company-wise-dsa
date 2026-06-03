@@ -1,45 +1,141 @@
-My Special DSA Notes: https://yournishaant.rpy.club/course/APlFbgQQfN
-<br>
-50 tricks to identify DSA Patterns Link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
-<br>
-2000 Top Companies HR Email ID: https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII
-<br>
-Internship Calender: https://aicteinternship.in/off-campus-internship-calendar-2025/
+<!-- ========================================================================= -->
+<!--                        COMPANY-WISE-DSA — README                            -->
+<!--       Cyberpunk Premium Theme  |  Animated SVGs  |  Live Badges          -->
+<!-- ========================================================================= -->
 
-| Company Name        | DSA Problem Link                                                                                                                                       | Tricks for Solving Patterns                          |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| Google              | [Google DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Focus on backtracking and dynamic programming.       |
-| Microsoft           | [Microsoft DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                      | Practice binary search, greedy algorithms.           |
-| Amazon              | [Amazon DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Work on sliding window, heap, and DFS/BFS.           |
-| Facebook            | [Facebook DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                       | Master recursion, graphs, and bit manipulation.      |
-| Apple               | [Apple DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Prioritize dynamic programming and divide and conquer.|
-| Adobe               | [Adobe DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Practice sorting and searching techniques.           |
-| Goldman Sachs       | [Goldman Sachs DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                  | Focus on arrays, hashing, and string manipulation.   |
-| Uber                | [Uber DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                           | Work on graphs, BFS/DFS, and Dijkstra's algorithm.   |
-| LinkedIn            | [LinkedIn DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                       | Focus on two-pointer and sliding window techniques.  |
-| Netflix             | [Netflix DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                        | Prioritize dynamic programming and DP on trees.      |
-| Twitter             | [Twitter DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                        | Work on greedy algorithms and interval problems.     |
-| Dropbox             | [Dropbox DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                        | Master recursion and binary search on sorted arrays. |
-| Airbnb              | [Airbnb DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Practice graph traversal and backtracking.           |
-| Salesforce          | [Salesforce DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                     | Work on greedy algorithms and dynamic programming.   |
-| Oracle              | [Oracle DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Focus on matrix traversal and dynamic programming.   |
-| PayPal              | [PayPal DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Prioritize binary search and sorting problems.       |
-| Walmart             | [Walmart DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                       | Focus on hashing, prefix sums, and arrays.           |
-| Expedia             | [Expedia DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                        | Practice stack-based problems and recursion.         |
-| Snap                | [Snap DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                           | Focus on graphs and dynamic programming.             |
-| Yahoo               | [Yahoo DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Work on linked lists and recursion.                  |
-| DoorDash            | [DoorDash DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                       | Master binary trees and backtracking.                |
-| Stripe              | [Stripe DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Practice greedy algorithms and string manipulation.  |
-| Lyft                | [Lyft DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                           | Focus on two-pointer and sliding window techniques.  |
-| Intuit              | [Intuit DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Work on backtracking and dynamic programming.        |
-| IBM                 | [IBM DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                            | Master dynamic programming and recursion problems.   |
-| Atlassian           | [Atlassian DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                      | Focus on graph traversal and dynamic programming.    |
-| Reddit              | [Reddit DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Work on hashing and bit manipulation.                |
-| Pinterest           | [Pinterest DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                      | Master recursion and divide and conquer techniques.  |
-| Spotify             | [Spotify DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                        | Focus on sorting, searching, and heaps.              |
-| Bloomberg           | [Bloomberg DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                      | Work on arrays, dynamic programming, and graphs.     |
-| Cisco               | [Cisco DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Focus on linked lists and dynamic programming.       |
-| ByteDance           | [ByteDance DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                      | Master sorting algorithms and binary search.         |
-| Tesla               | [Tesla DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Work on graph traversal and dynamic programming.     |
-| TikTok              | [TikTok DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Prioritize dynamic programming and recursion.        |
-| Nvidia              | [Nvidia DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Practice bit manipulation and backtracking.          |
+<div align="center">
+
+<!-- ============================== BANNER ============================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001A0D,50:002A15,75:001A0D,100:000000&height=180&section=header&text=company-wise-dsa&fontSize=48&fontColor=00FF88&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+<!-- ============================== TYPING SVG ============================== -->
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20company-wise-dsa%20%F0%9F%9A%80;%3E%20Built%20using%20Code%20%7C%20Optimized%20%26%20Secure;%3E%20Cyberpunk%20Premium%20Theme%20Applied.)](https://github.com/VarshuAi/company-wise-dsa)
+
+<br/>
+
+![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
+![Language](https://img.shields.io/badge/Code-Tech-00CC66?style=for-the-badge&logo=code&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001A0D,50:002A15,75:001A0D,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
+
+<!-- ============================== ABOUT ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<samp>&nbsp;ABOUT</samp>
+</h2>
+
+```yaml
+name: company-wise-dsa
+version: 1.0
+type: Repository
+author: VarshuAi
+description: >
+  No description available for this project.
+primary_tech: Code
+```
+
+<!-- ============================== CENTRAL GRAPHIC ============================== -->
+
+<div align="center">
+<br>
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=company-wise-dsa&theme=dark&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=00CC66)](https://github.com/VarshuAi/company-wise-dsa)
+<br>
+</div>
+
+<!-- ============================== FEATURES ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+<samp>&nbsp;FEATURES</samp>
+</h2>
+
+- ⚡ **Optimized Operations** — Engineered for performance and stability.
+- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
+- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
+
+<!-- ============================== COMMANDS ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+<samp>&nbsp;COMMANDS & USAGE</samp>
+</h2>
+
+```bash
+# Clone the repository structure
+git clone https://github.com/VarshuAi/company-wise-dsa.git
+cd company-wise-dsa
+```
+
+<!-- ============================== TECH STACK ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+<samp>&nbsp;TECH STACK</samp>
+</h2>
+
+<div align="center">
+
+#### `>> SYSTEM INVENTORY`
+![Code](https://img.shields.io/badge/Code-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- ============================== SETUP ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+<samp>&nbsp;SETUP</samp>
+</h2>
+
+```bash
+# 1. Clone repository remote
+git clone https://github.com/VarshuAi/company-wise-dsa.git
+cd company-wise-dsa
+
+# 2. Check technical prerequsites
+# Ensure runtime matches requirements (Code)
+```
+
+<!-- ============================== STRUCTURE ============================== -->
+
+<h2>
+<samp>&nbsp;📁 STRUCTURE</samp>
+</h2>
+
+```
+company-wise-dsa/
+├── src/             # Source code entrypoints
+├── docs/            # Project documentation files
+├── README.md        # Interactive readme sheet
+└── LICENSE          # Permission details
+```
+
+<!-- ============================== FOOTER ============================== -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001A0D,50:002A15,75:001A0D,100:000000&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
+[![Repo](https://img.shields.io/badge/company-wise-dsa-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/company-wise-dsa)
+
+<br/>
+
+</div>
